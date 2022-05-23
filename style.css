@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.table{
+    width: 100%;
+}
 .box1{
     background-image: url(assests/splash.jpg);
     background-position: center;
