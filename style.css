@@ -13,7 +13,16 @@ th a{
     color: white;
 }
 
-    
+    input{
+        margin-top: 21px;
+    padding: 14px;
+    border: 1px solid white;
+    width: 180px;
+    border-radius: 36px;
+}
+    input:hover{
+background-color:#2d3436;
+    }
 
 .box1{
     background-image: url(assests/splash.jpg);
